@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ifm:home|Door43 (ifm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ifm|d43-ifm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ifm/archive/master.zip|d43-ifm.zip]]
+
+**Recent Changes**
+{{changes>ns = ifm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ifm|Ethnologue data]]
+
